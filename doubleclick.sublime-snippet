@@ -27,8 +27,12 @@
             <div class="frameOne" id="frameOne">
               <div class="frameOneText1" id="frameOneText1"></div>
               <div class="frameOneText2" id="frameOneText2"></div>
-              <div class="frameOneImg1" id="frameOne1"></div>
-              <div class="frameOneImg2" id="frameOne2"></div>
+              <div class="frameTopImg1" id="frameTopImg1">
+                <img src="" alt=""/>
+              </div>
+              <div class="frameBottomImg1" id="frameBottomImg1">
+                <img src="" alt=""/>
+              </div>
             </div>
             FRAMEONE-->
 
@@ -36,8 +40,12 @@
             <div class="endFrame" id="endFrame">
               <div class="endFrameText1" id="endFrameText1"></div>
               <div class="endFrameText2" id="endFrameText2"></div>
-              <div class="endFrameImg1" id="endFrameImg1"></div>
-              <div class="endFrameImg2" id="endFrameImg2"></div>
+              <div class="endFrameTopImg1" id="endFrameTopImg1">
+                <img src="" alt=""/>
+              </div>
+              <div class="endFrameBottomImg1" id="endFrameBottomImg1">
+                <img src="" alt=""/>
+              </div>
             </div>
             ENDFRAME-->
 
