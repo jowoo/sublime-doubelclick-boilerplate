@@ -49,11 +49,11 @@ That generates:
                 <div class="frameOne" id="frameOne">
                   <div class="frameOneText1" id="frameOneText1"></div>
                   <div class="frameOneText2" id="frameOneText2"></div>
-                  <div class="frame1TopImg" id="frame1TopImg">
-                    <img src="" alt=""/>
+                  <div class="frameOneTopImg1" id="frameOneTopImg1">
+                    <img src="" alt="" id="frameOneTopImage1" />
                   </div>
-                  <div class="frame1BottomImg" id="frame1BottomImg">
-                    <img src="" alt=""/>
+                  <div class="frameBottomImg1" id="frameBottomImg1">
+                    <img src="" alt="" id="frameOneBottomImage1" />
                   </div>
                 </div>
                 FRAMEONE-->
@@ -62,11 +62,11 @@ That generates:
                 <div class="endFrame" id="endFrame">
                   <div class="endFrameText1" id="endFrameText1"></div>
                   <div class="endFrameText2" id="endFrameText2"></div>
-                  <div class="endFrame1TopImg" id="endFrame1TopImg">
-                    <img src="" alt=""/>
+                  <div class="endFrameTopImg1" id="endFrameTopImg1">
+                    <img src="" alt="" id="endFrameTopImage1" />
                   </div>
-                  <div class="endFrame1BottomImg" id="endFrame1BottomImg">
-                    <img src="" alt=""/>
+                  <div class="endFrameBottomImg1" id="endFrameBottomImg1">
+                    <img src="" alt="" id="endFrameBottomImage1" />
                   </div>
                 </div>
                 ENDFRAME-->
